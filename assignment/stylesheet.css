@@ -19,3 +19,8 @@ main{
     background-color: lightgray;
     padding: 1em;
 }
+
+.bodydiv {
+    padding-bottom: 500px;
+
+}
